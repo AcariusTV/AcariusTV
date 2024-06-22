@@ -4,8 +4,13 @@
 
 ## 💻 - Aktuelle Projekte
 
-- 🪲 › BugHub 
-   - 📚 › BugHub ist ein Discord-Server für sämtliche Entwickler. Er bietet eine Austauschs-Plattform, in dieser Entwickler z.b ihre eigenen Projekte vorstellen können. Zusätzlich werden wir auch mehre öffentliche Discord-Bots mit verschiedenen Funktionen haben, 
-           welche sehr nützlich sein können.
+- 🔪 › Bladeworks
+   - 📚 › Bladworks ist ein Entwicklerstudio für kleine 2D-Indiespiele und Discord-Bots. Wir benutzen Unity (C#) und für Discord Bots Java mit der API JDA. Aktuell besteht das Team aus allein mir. Bei Interesse bitte auf Discord (acariustv) melden.
+     
+## 📕 - Statistiken
+![GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=AcariusTV&show_icons=true&theme=radical)
 
-  
+## 📖 - Sprachen
+- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+
